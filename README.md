@@ -1,3 +1,5 @@
+
+  
 # Mini-symposium JOBIM 2025: AI in Healthcare: From Fundamentals to the Clinic
 
 Artificial Intelligence (AI) is reshaping the landscape of modern medicine, from early diagnosis to personalized treatment and clinical decision support. This mini-symposium, "AI in Healthcare: From Fundamentals to Clinic," aims to explore the real-world impact of AI in clinical environments, with a particular focus on its integration into diagnostic and therapeutic workflows in hospitals.
@@ -11,10 +13,11 @@ Through expert talks and a closing panel discussion, this symposium seeks to bri
 
 To showcase the diversity of approaches to AI in healthcare, the symposium brings together three distinguished experts. Each speaker will share their unique perspective on the development, implementation, and implications of AI in medicine.
 
+
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <img src="jean-marc-alliot.png" alt="Jean-Marc Alliot" width="120" style="border-radius: 8px;">
+  <img src="img/anonymous.png" alt="Jean-Marc Alliot" width="120" style="border-radius: 8px;">
   <div>
     <strong>Jean-Marc Alliot</strong>  
     <br><em>Scientific Director of Artificial Intelligence and Data, Toulouse University Hospital</em>
@@ -50,7 +53,7 @@ Virtual Staining in Computational Pathology: This work introduces a generative A
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <img src="simon-cabello-aguilar.png" alt="Simon Cabello-Aguilar" width="120" style="border-radius: 8px;">
+  <img src="img/anonymous.png" alt="Simon Cabello-Aguilar" width="120" style="border-radius: 8px;">
   <div>
     <strong>Simon Cabello-Aguilar</strong>  
     <br><em>Engineer in Bioinformatics, Montpellier University Hospital</em>
