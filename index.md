@@ -50,7 +50,7 @@ Virtual Staining in Computational Pathology: This work introduces a generative A
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <img src="img/anonymous.png" alt="Simon Cabello-Aguilar" width="120" style="border-radius: 8px;">
+  <img src="img/Simon_Cabello_Aguilar.jpg" alt="Simon Cabello-Aguilar" width="120" style="border-radius: 8px;">
   <div>
     <strong>Simon Cabello-Aguilar</strong>  
     <br><em>Engineer in Bioinformatics, Montpellier University Hospital</em>
