@@ -64,6 +64,19 @@ Virtual Staining in Computational Pathology: This work introduces a generative A
 **Talk abstract**: We developed an AI-assisted NGS- based method for detecting and stratifying MET amplification (METamp) in NSCLC patients, achieving high accuracy and sensitivity. Among 1,932 patients, de novo METamp was identified in 2.4% and stratified into Low-, Medium-, and High- amplification groups, with significant differences in overall survival and progression- free survival. These findings highlight the potential clinical value of routine METamp screening to guide treatment and trial inclusion in NSCLC.
 
 ---
+**Aknowledgements**
+
+<p>We warmly thank our sponsors for their support:</p>
+
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="img/SFBI_logo.png" alt="SFBI" width="120">
+  <img src="img/Canceropole-Grand-Sud-Ouest-GSO.png" alt="Cancéropôle GSO" width="150">
+  <img src="img/bioinfoDiag.png" alt="BioinfoDiag" width="130">
+</div>
+
+<p>Their support makes this event possible, encouraging interdisciplinary collaboration between medicine and AI.</p>
+
+---
 
 **Organising committee**
 - Delphine Potier
