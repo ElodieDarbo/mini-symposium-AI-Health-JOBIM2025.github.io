@@ -81,7 +81,7 @@ Virtual Staining in Computational Pathology: This work introduces a generative A
 ---
 
 **Organising committee**
-- Delphine Potier
-- Elodie Darbo
-- Laetitia Bourgeade
-- Charles Van Goethem
+- Delphine Potier <img src="img/CIML.png" alt="ciml" width="10" style="border-radius: 8px;">
+- Elodie Darbo <img src="img/BRIC.png" alt="bric" width="10" style="border-radius: 8px;">
+- Laetitia Bourgeade <img src="img/CHU-BDX.jpg" alt="chu-bdx" width="10" style="border-radius: 8px;">
+- Charles Van Goethem <img src="img/CHU-MTPL.png" alt="chu-mtpl" width="10" style="border-radius: 8px;">
