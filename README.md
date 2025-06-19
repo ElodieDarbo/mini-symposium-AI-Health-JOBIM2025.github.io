@@ -1,6 +1,6 @@
 # Mini-symposium JOBIM 2025: AI in Healthcare: From Fundamentals to the Clinic
 
-**Hosted by**: <img src="img/Logo_JOBIM_2025_QUADRI_vector.png" alt="JOBIM" width="180" style="border-radius: 8px;">
+**Hosted by**: <a href="https://jobim2025.labri.fr/"><img src="img/Logo_JOBIM_2025_QUADRI_vector.png" alt="JOBIM" width="180" style="border-radius: 8px;"></a>
 
 Artificial Intelligence (AI) is reshaping the landscape of modern medicine, from early diagnosis to personalized treatment and clinical decision support. This mini-symposium, "AI in Healthcare: From Fundamentals to Clinic," aims to explore the real-world impact of AI in clinical environments, with a particular focus on its integration into diagnostic and therapeutic workflows in hospitals.
 
