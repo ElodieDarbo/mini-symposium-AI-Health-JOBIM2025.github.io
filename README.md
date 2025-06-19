@@ -81,7 +81,7 @@ Virtual Staining in Computational Pathology: This work introduces a generative A
 ---
 
 **Organising committee**
-- Delphine Potier <img src="img/CIML.png" alt="ciml" width="10" style="border-radius: 8px;">
-- Elodie Darbo <img src="img/BRIC.png" alt="bric" width="10" style="border-radius: 8px;">
-- Laetitia Bourgeade <img src="img/CHU-BDX.jpg" alt="chu-bdx" width="10" style="border-radius: 8px;">
-- Charles Van Goethem <img src="img/CHU-MTPL.png" alt="chu-mtpl" width="10" style="border-radius: 8px;">
+- Delphine Potier <a href="https://www.cnrs.fr/fr"><img src="img/CNRS.jpg" alt="cnrs" width="60" style="border-radius: 8px;"></a> <a href="http://www.ciml.univ-mrs.fr/fr"><img src="img/CIML.png" alt="ciml" width="60" style="border-radius: 8px;"></a><a href="https://www.sfbi.fr/"><img src="img/SFBI.png" alt="sfbi" width="60" style="border-radius: 8px;"></a>
+- Elodie Darbo <a href="https://www.bricbordeaux.com/"><img src="img/BRIC.png" alt="bric" width="60" style="border-radius: 8px;"></a> <a href="https://www.labri.fr/"><img src="img/LABRI.png" alt="labri" width="60" style="border-radius: 8px;"></a><a href="https://www.sfbi.fr/"><img src="img/SFBI.png" alt="sfbi" width="60" style="border-radius: 8px;"></a>
+- Laetitia Bourgeade <a href="https://www.chu-bordeaux.fr/"><img src="img/CHU-BDX.jpg" alt="chu-bdx" width="60" style="border-radius: 8px;"></a> <a href="https://bioinfo-diag.fr/"><img src="img/bioinfodiag.png" alt="bioinfodiag" width="60" style="border-radius: 8px;"></a>
+- Charles Van Goethem <a href="https://www.chu-montpellier.fr/fr/"><img src="img/CHU-MTPL.png" alt="chu-mtpl" width="60" style="border-radius: 8px;"></a> <a href="https://bioinfo-diag.fr/"><img src="img/bioinfodiag.png" alt="bioinfodiag" width="60" style="border-radius: 8px;"></a>
