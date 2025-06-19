@@ -1,6 +1,6 @@
-# Mini-symposium JOBIM 2025: AI in Healthcare: From Fundamentals to the Clinic
+<h1 align="center">Mini-symposium JOBIM 2025 </br> "AI in Healthcare: From Fundamentals to the Clinic"</h1>
 
-**Hosted by**: <a href="https://jobim2025.labri.fr/"><img src="img/Logo_JOBIM_2025_QUADRI_vector.png" alt="JOBIM" width="180" style="border-radius: 8px;"></a>
+<h4 align="center">Hosted by: <a href="https://jobim2025.labri.fr/"><img src="img/Logo_JOBIM_2025_QUADRI_vector.png" alt="JOBIM" width="300" style="border-radius: 8px;"></a></h4>
 
 Artificial Intelligence (AI) is reshaping the landscape of modern medicine, from early diagnosis to personalized treatment and clinical decision support. This mini-symposium, "AI in Healthcare: From Fundamentals to Clinic," aims to explore the real-world impact of AI in clinical environments, with a particular focus on its integration into diagnostic and therapeutic workflows in hospitals.
 
@@ -19,7 +19,7 @@ To showcase the diversity of approaches to AI in healthcare, the symposium bring
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <img src="img/anonymous.png" alt="Jean-Marc Alliot" width="120" style="border-radius: 8px;">
   <div>
-    <strong>Jean-Marc Alliot</strong>  
+    <a href="https://www.alliot.fr/fpro.html.fr"><strong>Jean-Marc Alliot</strong></a>
     <br><em>Scientific Director of Artificial Intelligence and Data, Toulouse University Hospital</em>
     <p>Jean-Marc Alliot offers a critical and historical perspective on the evolution of AI in medicine, highlighting both major advances and ongoing methodological challenges. He currently leads the Health Data Warehouse and coordinates AI initiatives at Toulouse University Hospital, with a strong research focus in oncology.</p>
   </div>
@@ -34,7 +34,7 @@ To showcase the diversity of approaches to AI in healthcare, the symposium bring
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <img src="img/DaniRaco.jpg" alt="Daniel Racoceanu" width="120" style="border-radius: 8px;">
   <div>
-    <strong>Daniel Racoceanu</strong>  
+    <a href="https://daniraco.github.io/"><strong>Daniel Racoceanu</strong></a>
     <br><em>Professor of Biomedical Image Analysis, Sorbonne University & Paris Brain Institute (ICM)</em>
     <p>Daniel Racoceanu explores explainable and responsible AI in biomedical imaging through applications in neurodegeneration and computational pathology. He leads the ARAMIS team at Inria, focusing on interpretable models that integrate imaging, clinical, and omics data for ethical, personalized healthcare.</p>
   </div>
@@ -55,7 +55,7 @@ Virtual Staining in Computational Pathology: This work introduces a generative A
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <img src="img/Simon_Cabello_Aguilar.jpg" alt="Simon Cabello-Aguilar" width="120" style="border-radius: 8px;">
   <div>
-    <strong>Simon Cabello-Aguilar</strong>  
+    <a href="https://scholar.google.com/citations?user=tvHiwk8AAAAJ&hl=fr"><strong>Simon Cabello-Aguilar</strong></a>
     <br><em>Engineer in Bioinformatics, Montpellier University Hospital</em>
     <p>Simon Cabello-Aguilar presents a real-world implementation of AI in oncology: an NGS-based tool for detecting MET amplification in lung cancer. Based in the tumor biology lab at Montpellier, he specializes in developing clinically validated bioinformatics pipelines for precision medicine.</p>
   </div>
@@ -83,5 +83,5 @@ Virtual Staining in Computational Pathology: This work introduces a generative A
 **Organising committee**
 - Delphine Potier <a href="https://www.cnrs.fr/fr"><img src="img/CNRS.jpg" alt="cnrs" width="60" style="border-radius: 8px;"></a> <a href="http://www.ciml.univ-mrs.fr/fr"><img src="img/CIML.png" alt="ciml" width="60" style="border-radius: 8px;"></a><a href="https://www.sfbi.fr/"><img src="img/SFBI.png" alt="sfbi" width="60" style="border-radius: 8px;"></a>
 - Elodie Darbo <a href="https://www.bricbordeaux.com/"><img src="img/BRIC.png" alt="bric" width="60" style="border-radius: 8px;"></a> <a href="https://www.labri.fr/"><img src="img/LABRI.png" alt="labri" width="60" style="border-radius: 8px;"></a><a href="https://www.sfbi.fr/"><img src="img/SFBI.png" alt="sfbi" width="60" style="border-radius: 8px;"></a>
-- Laetitia Bourgeade <a href="https://www.chu-bordeaux.fr/"><img src="img/CHU-BDX.jpg" alt="chu-bdx" width="60" style="border-radius: 8px;"></a> <a href="https://bioinfo-diag.fr/"><img src="img/bioinfodiag.png" alt="bioinfodiag" width="60" style="border-radius: 8px;"></a>
-- Charles Van Goethem <a href="https://www.chu-montpellier.fr/fr/"><img src="img/CHU-MTPL.png" alt="chu-mtpl" width="60" style="border-radius: 8px;"></a> <a href="https://bioinfo-diag.fr/"><img src="img/bioinfodiag.png" alt="bioinfodiag" width="60" style="border-radius: 8px;"></a>
+- Laetitia Bourgeade <a href="https://www.chu-bordeaux.fr/"><img src="img/CHU-BDX.jpg" alt="chu-bdx" width="60" style="border-radius: 8px;"></a> <a href="https://bioinfo-diag.fr/"><img src="img/bioinfoDiag.png" alt="bioinfodiag" width="60" style="border-radius: 8px;"></a>
+- Charles Van Goethem <a href="https://www.chu-montpellier.fr/fr/"><img src="img/CHU-MTPL.png" alt="chu-mtpl" width="60" style="border-radius: 8px;"></a> <a href="https://bioinfo-diag.fr/"><img src="img/bioinfoDiag.png" alt="bioinfodiag" width="60" style="border-radius: 8px;"></a>
